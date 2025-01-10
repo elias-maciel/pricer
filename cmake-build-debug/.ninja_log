@@ -1,0 +1,9 @@
+# ninja log v6
+3	356	7582366564938585	CMakeFiles/main.dir/src/OptionPricer.cpp.obj	bd51ab0e04a2a430
+2	324	7582367499639177	build.ninja	c21cedc856aada12
+1	563	7582365102894582	CMakeFiles/main.dir/src/main.cpp.obj	e1aa64d427e7db25
+356	491	7582366568459320	main.exe	a10eba8b2ea7e77d
+1	338	7582367499639177	build.ninja	c21cedc856aada12
+31	413	7582367500196764	CMakeFiles/Pricer.dir/src/OptionPricer.cpp.obj	a53067d36dc2a06e
+1	566	7582367499896842	CMakeFiles/Pricer.dir/src/main.cpp.obj	a5e93ee422a0164a
+566	683	7582367505538849	Pricer.exe	6a47a3b36c236364
